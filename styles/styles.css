@@ -1,0 +1,17 @@
+.bg{text-align: center;}
+
+.background-img{
+    background-image: url('/B10A1-Challenge-Begins/assets/Hero-bg.png');
+}
+
+.btn-1{
+    margin-bottom: 20px;
+    padding: 15px;
+    padding-bottom: 15px;
+background-color: black;
+color: aqua;
+}
+
+.banner-profile{
+    padding-top: 80px;
+}
