@@ -10,13 +10,116 @@
     padding-bottom: 15px;
 background-color: black;
 color: aqua;
+border-radius: 10px;
 }
 
 .banner-profile{
     padding-top: 80px;
 }
+.intro-section{
+    justify-content: center;
+}
 
-.sec1{
+.intro-title{
+    text-align: center;
+}
+
+.sec1-description{
+    text-align: center;
+}
+.details{
+    
+    justify-content: center;
+    margin-left: 148px;
+    margin-right: 148px;
+    padding: 97px;
+    background-color: rgb(236, 240, 240);
+    border-radius: 20px;
+    
+    
+}
+.div-section{
+    background-color: white;
+    margin: 50px;
+    border-radius: 7px;
+}
+
+.sec-two{
+    display: flex;
+    padding: 40px;
+}
+
+/* .sec-one{
+   display: none; 
+} */
+
+.body-image{
+    display: flex;
+    padding-left: 600px;
+}
+
+.bdy-sec-2{
+    padding-left: 600px;
+}
+
+
+.my-inspiration{
+    text-align: center;
+}
+
+.ins-des{
+    text-align: center;
+}
+
+.youtube{
+   
+    justify-content: center;
+    padding-left: 26%;
+    
+}
+
+
+.target{
+    text-align: center;
+}
+.cimg{
+    display: flex;
+}  
+
+.My-Next-Targets{
+    text-align: center;
+
+}
+
+.reactjs-text{
+    display: flex;
+}
+.js-des{
+    display: flex;
+}
+
+.text-js{
+    display:flex;
+}
+.footer-class{
+    text-align: center;
+}
+
+.footer-img{
+display: flex;
+padding-left: 80%;
+
+}
+
+.footer-img1{
+    padding-right: 5px;
+}
+
+/* .cimg{
+    width: 364px;
+    height: 299px;
+} */
+/* .sec1{
     text-align: center;
 }
 .section-title{
@@ -27,11 +130,110 @@ color: aqua;
 .sec1-description{
     text-align: center;
 }
+.simple{
+    margin: 100px;
+    padding-left: 50px;
+}
+
+.sec2
+{background-color: rgb(30, 30, 206);
+    color: aqua;}
+
+.img-mover{
+    display: flex;
+    padding-left: 60%;
+    padding-top: 20px;
+}
+
+
+.learn-more2{
+    border-color: aqua;
+        border-radius: 25px;
+        padding: 20px;
+        padding-bottom:;
+    background-color: black;
+    color: aqua;
+}
+
+.learn-more-2{
+    padding-left: 25px;
+}
+ */
+
+
+
+
+
+
+
+
+/* .bg{text-align: center;}
+
+.background-img{
+    background-image: url("/assets/Hero-bg.png")
+}
+
+.btn-1{
+    margin-bottom: 20px;
+    padding: 15px;
+    padding-bottom: 15px;
+background-color: black;
+color: aqua;
+}
+
+.banner-profile{
+    padding-top: 80px;
+}
+/* 
+.sec1{
+    text-align: center;
+    background-color: rgb(89, 93, 102);
+    color: aqua;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+.section-title{
+    text-align: center;
+   font: bolder;
+}
+
+.sec1-description{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
 
 .sec2{
- 
+    display: fleX;
+    text-align: center;
+    padding-left: 10px;
+    background-color: darkblue;
+    
 }
 
 .sec-img-2{
-    display: grid;
+   padding-left: 90%;
+    
 }
+.sec2-title{
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 10x;
+    color: aqua;
+}
+.sec2-description{
+    color: aqua;
+    padding-right: 55px ;
+}
+.learn-more2{
+    border: 2px solid rgb(74, 222, 241);
+    margin-right: 260px ;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    padding: 15px;
+    padding-bottom: 15px;
+    border-radius: 55px;
+    border-style: color solid;
+background-color: black;
+color: aq
