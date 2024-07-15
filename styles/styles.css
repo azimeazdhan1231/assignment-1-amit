@@ -84,11 +84,12 @@ text-decoration: none;
 .target{
     text-align: center;
 }
-.cimg{
+/* .cimg{
     display: flex;
-}  
+}   */
 
 .My-Next-Targets{
+    justify-content: center;
     text-align: center;
 
 }
@@ -96,11 +97,16 @@ text-decoration: none;
 .reactjs-text{
     display: flex;
 }
-.js-des{
+.reactjs-des{
     display: flex;
+}
+.reactjs{
+    justify-content: center;
 }
 
 .text-js{
+    padding: 25px;
+    justify-content: center;
     display:flex;
 }
 .footer-class{
