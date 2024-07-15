@@ -106,6 +106,7 @@ text-decoration: none;
     padding: 25px;
     justify-content: center;
     display:flex;
+    margin: 150px;
 }
 .footer-class{
     text-align: center;
@@ -144,6 +145,7 @@ padding-left: 75%;
     padding-bottom: 25px;
     color: aqua;
     text-align: center;
+    margin: 150px;
 }
 .support-title{
     padding-top: 30px;
@@ -168,6 +170,7 @@ padding-left: 75%;
 
 .skills{
     text-align: center;
+    margin: 150px;
 }
 
 .skill{
@@ -177,11 +180,23 @@ padding-left: 75%;
     border-radius: 5px;
 }
 
+.skill1{
+    background-color: rgba(236, 224, 145, 0.747);
+}
+
+.skill0{
+    background-color: lightsalmon;
+}
+
+.skill2{
+    background-color: lightblue;
+}
+
 .section-title-text{
-    padding-top: 250px;
+    padding-top: 50px;
     margin: auto;
-    color: aqua;
-    background-color: rgb(146, 146, 146);
+    /* color: aqua;
+    background-color: rgb(146, 146, 146); */
     padding: 15px;
 }
 
@@ -191,19 +206,20 @@ padding-left: 75%;
     font-size: smaller;
     font-style: italic;
     margin: auto;
-    color: aqua;
-    background-color: rgb(146, 146, 146);
+    /* color: aqua;
+    background-color: rgb(146, 146, 146); */
     padding: 25px;
 }
 .My-Next-Targets{
     background-color:  rgb(146, 146, 146);
     padding: 8px;
     color: aqua;
+    margin: 150px;
 }
 
 .my-inspiration1{
-    background-color:  rgb(146, 146, 146);
-    color: aqua;
+
+    color: rgb(0, 0, 0);
     padding: 35px;
 }
 .ins-des1{
@@ -218,13 +234,23 @@ padding-left: 75%;
     border-radius: 15px 
 }
 .nxt-des{
-    font-style: italic;
+    font-style:normal;
 }
 .skill-description{
     font-style: italic;
 }
 
 .youtube{
-    border: 20px;
     justify-content: center;
+    padding-left: 250px;
+    
+    
+    
+
+}
+.inspiration{
+    justify-content: center;
+    margin: 150px;
+    border-radius: 20px;
+
 }
