@@ -148,11 +148,13 @@ padding-left: 75%;
    }
 
 .support{
-    border: 25px;
-    padding: 60px;
+    background-image: url("/assets/handshake.jpg");
+    /* border: 25px;
+    padding: 60px; */
+    padding-bottom: 25px;
     color: aqua;
     text-align: center;
-    background-image: url("/assets/handshake.jpg");
+   
 }
 .support-hub{
     height: 35px;
