@@ -8,10 +8,12 @@
     margin-bottom: 20px;
     padding: 15px;
     padding-bottom: 15px;
-background-color: black;
+background-color: rgb(0, 0, 0);
 color: aqua;
 border-radius: 10px;
+text-decoration: none;
 }
+
 
 .banner-profile{
     padding-top: 80px;
@@ -140,7 +142,8 @@ padding-left: 75%;
    }
 
 .support{
-    padding: 50px;
+    border: 25px;
+    padding: 60px;
     color: aliceblue;
     text-align: center;
     background-image: url("/assets/handshake.jpg");
@@ -222,6 +225,7 @@ padding-left: 75%;
 }
 
 .youtube{
+    border: 20px;
     justify-content: center;
 }
 /* .cimg{
