@@ -2,7 +2,10 @@
 
 
 .background-img{
-    background-image: url("/assets/Hero-bg.png")}
+    background-image: url("../assets/Hero-bg.png");
+background-size: cover;
+background-repeat: no-repeat;
+}
 
 .btn-1{
     margin-bottom: 20px;
@@ -135,7 +138,9 @@ padding-left: 75%;
    }
 
 .support{
-    background-image: url("/assets/handshake.jpg");
+    background-image: url("../assets/handshake.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
     padding-bottom: 25px;
     color: aqua;
     text-align: center;
